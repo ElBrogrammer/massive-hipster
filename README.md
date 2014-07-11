@@ -1,4 +1,4 @@
-massive-hipster
-===============
+qiime-bokeh-heatmaps
+====================
 
-YOLO!!!
+Experimenting with QIIME heatmaps using bokeh.
